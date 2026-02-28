@@ -28,7 +28,7 @@ TF-IDF, BART, Text Summarization
 Predictive Modeling, Recommendation Systems
 
 ### Analytics & Visualization
-Excel, Power BI, Exploratory Data Analysis (EDA), Trend Analysis
+Looker Studio, Power BI, Excel, Exploratory Data Analysis (EDA), Trend Analysis
 
 ### Databases
 Relational & Dimensional Data Modeling  
@@ -38,12 +38,20 @@ Schema Analysis, Query Optimization
 
 ## 🚀 Featured Projects
 
+### 📊 Retail Lead Conversion & Operations Dashboard
+**Tech:** Looker Studio, Python (Pandas), Google Sheets
+
+- Architected an end-to-end analytics pipeline analyzing **1,000+ retail leads** to identify sales bottlenecks  
+- Uncovered a critical **18.8% funnel drop-off** at the pre-booking stage and calculated stage-to-stage conversion rates  
+- Discovered an **8.3% revenue leakage** and a severe post-sales service deficit (average NPS of **-53**)
+
+---
+
 ### 🌾 AgroSync – IoT-Based Smart Agriculture App
 **Tech:** React Native, Flask, Machine Learning, ESP32  
 
 - Built end-to-end IoT-enabled precision agriculture system  
-- Developed ML crop recommendation engine with **87% accuracy**  
-- Integrated real-time soil + weather data for multi-parameter analysis  
+- Developed ML crop recommendation engine with **87% accuracy** - Integrated real-time soil + weather data for multi-parameter analysis  
 
 ---
 
@@ -51,15 +59,14 @@ Schema Analysis, Query Optimization
 **Tech:** Python, NLP, Schema Optimization  
 
 - Designed NLP system converting natural language to optimized SQL  
-- Improved complex query execution speed by **30–35%**  
-- Implemented schema-aware query optimization  
+- Improved complex query execution speed by **30–35%** - Implemented schema-aware query optimization  
 
 ---
 
-### 📊 ML Systems & Research Work
+### 📈 ML Systems & Research Work
 
 **Qualifying Predictor**
-- Built telemetry-based ML model achieving **82% prediction accuracy**
+- Built a telemetry-based ML model achieving **82% prediction accuracy**
 
 **Hybrid Report Summarizer**
 - TF-IDF + BART based summarization
@@ -67,12 +74,8 @@ Schema Analysis, Query Optimization
 
 ---
 
-
-
-
 ## 📫 Connect With Me
 
 📧 ayushkedia.er@gmail.com  
 🔗 LinkedIn: (www.linkedin.com/in/ayush-kedia-92813824a)  
 🎓 KIIT University (2026)
-
